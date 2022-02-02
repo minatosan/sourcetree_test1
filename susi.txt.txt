@@ -1,2 +1,2 @@
 susimake
-sa-mon
+sa-mon2
